@@ -10,7 +10,6 @@
 - $ETH <br>
 - $CRV <br>
 the curve wars is not over <br>
-<br> <br>
 
 <h3 align="center">Languages</h3> <br>
 - Python <br>
