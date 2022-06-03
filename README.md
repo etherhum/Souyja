@@ -14,5 +14,6 @@ the curve wars is not over <br>
 <h3 align="center">Languages</h3> <br>
 - Python <br>
 - Java <br>
+- R <br>
 - SQL / PreSQL <br>
 - Shell <br>
